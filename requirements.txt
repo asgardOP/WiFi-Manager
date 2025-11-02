@@ -1,0 +1,2 @@
+# WiFi_Manager requirements
+scapy>=2.4.5
