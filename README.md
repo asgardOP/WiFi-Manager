@@ -3,6 +3,8 @@
 A powerful **Python-based Windows WiFi utility** for network scanning, monitoring, and control.
 It provides advanced tools for **ARP spoofing, DNS sniffing, MAC address modification, port scanning**, and other network utilities — all from a clean command-line interface.
 
+![WiFi Manager](terminal.png)
+
 ---
 
 ## ⚙️ Features
@@ -17,6 +19,8 @@ It provides advanced tools for **ARP spoofing, DNS sniffing, MAC address modific
   * Set a **custom MAC address** or generate a **random** one.
   * Automatically disables/enables adapters to apply changes.
   * Works via PowerShell with administrative rights.
+ 
+    ![WiFi Manager - Scanner](terminal-scan.png)
 
 ---
 
