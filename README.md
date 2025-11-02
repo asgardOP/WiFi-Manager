@@ -10,6 +10,8 @@ It provides advanced tools for **ARP spoofing, DNS sniffing, MAC address modific
 ## ⚙️ Features
 
 * **WiFi Scanner:** Detect devices connected to your local network (uses `nmap` and `scapy`).
+    ![WiFi Manager - Scanner](terminal-scan.png)
+  
 * **ARP Spoofing & DNS Sniffer:** Monitors DNS requests and identifies access to popular social media domains.
 * **Port Scanner:** Scans common ports (1–1024) on a target IP and shows open ones.
 * **Network Info Display:** Shows IP and MAC information for your physical network interfaces.
@@ -20,7 +22,6 @@ It provides advanced tools for **ARP spoofing, DNS sniffing, MAC address modific
   * Automatically disables/enables adapters to apply changes.
   * Works via PowerShell with administrative rights.
  
-    ![WiFi Manager - Scanner](terminal-scan.png)
 
 ---
 
