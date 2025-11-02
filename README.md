@@ -20,7 +20,7 @@ It provides advanced tools for **ARP spoofing, DNS sniffing, MAC address modific
 
 ---
 
-## 🧩 Requirements
+## Requirements
 
 * **Windows OS**
 * **Python 3.9+**
@@ -34,7 +34,7 @@ It provides advanced tools for **ARP spoofing, DNS sniffing, MAC address modific
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -70,6 +70,6 @@ Use responsibly.
 
 ---
 
-## 📄 License
+## License
 
 MIT License © 2025 [Ali Emad (asgard)](https://github.com/asgardOP)
